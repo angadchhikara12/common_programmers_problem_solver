@@ -8,12 +8,13 @@ I guess every programmer not/on Github often have problems running their creativ
 But just to make everything easy for everyone (especially the lazy ones), I build this program. It will just reboot your device like after hitting the Restart/Reboot button on your system. So I build this because of the upcoming era of Automation, and just trying to be cool on Github (unless someone sees it)😭.
 
 ## Thanks for using my repository
-### that one click motivated me to make more of cool and automated things🥹
+#### That one click motivated me to make more of cool and automated things🥹
 ***
 
 Author: Angad Chhikara
 
 
 Github Profile: https://www.github.com/angadchhikara12
+
 
 
